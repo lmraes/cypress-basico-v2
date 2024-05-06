@@ -1,5 +1,5 @@
 # cypress-basic-v2
-Sample project for the basic course of the Talking About Testing online school.
+Sample project for the basic course of the Talking About Testing online school (https://walmyr.dev).
 
 ## Pre-requirements
 
@@ -26,11 +26,3 @@ Or, run `npm run cy:open` to open Cypress in interactive mode on a desktop mobil
 Run `npm run test:mobile` to run the test on a mobile viewport.
 
 Or, run `npm run cy:open` to open Cypress in interactive mode.
-
-## Support this project
-
-If you want to support this project, leave a ⭐.
-
-___
-
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
